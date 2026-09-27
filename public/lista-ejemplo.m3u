@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="demo.noticias" tvg-logo="" group-title="Noticias",Noticias demo
+http://ejemplo.local/live/noticias.m3u8
+#EXTINF:-1 tvg-id="demo.noticias2" group-title="Noticias",Noticias regional demo
+http://ejemplo.local/live/noticias-2.m3u8
+#EXTINF:-1 tvg-id="demo.deportes" group-title="Deportes",Deportes demo
+http://ejemplo.local/live/deportes.m3u8
+#EXTINF:-1 tvg-id="demo.infantil" group-title="Infantil",Infantil demo
+http://ejemplo.local/live/infantil.m3u8

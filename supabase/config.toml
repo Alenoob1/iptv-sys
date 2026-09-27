@@ -1,0 +1,4 @@
+project_id = "iptvsys"
+
+[functions.playlist]
+verify_jwt = false
